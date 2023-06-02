@@ -8,4 +8,4 @@
 
 提取文字的时候，把非气泡区域的文字提取了
 
-[ce/riwen/01.jpg](https://github.com/1439707509/joinjaptocn/blob/e8ca68824a12621523fd1f9054fbbc8e2730d63a/ce/riwen/01.jpg)
+https://github.com/1439707509/joinjaptocn/blob/e8ca68824a12621523fd1f9054fbbc8e2730d63a/ce/riwen/01.jpg?raw=true
