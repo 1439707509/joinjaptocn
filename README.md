@@ -1,5 +1,7 @@
 # joinjaptocn
 
+> [中文说明](README_CN.md) | [Change Log](CHANGELOG.md) \
+
 我只是想，删除气泡里的文字，提取气泡里的文字，把提取好的文字，写入到，删除了气泡文字的图片
 
 目前的效果，和ce文件夹里的ce-translated一样，并不理想
