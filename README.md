@@ -2,6 +2,8 @@
 
 > [中文说明](README_CN.md) 
 
+2023.6.4 我加上了判断代码，目前是 将膨胀后的区域，4条边的中间10px，各外延5px，组成4个小矩形，然后判断这4个小矩形里是否有非白色点，如果超过2个小矩形有，则视为非气泡，删除，可是还是不准确
+
 I just want to delete the text in the bubble, extract the text in the bubble, write the extracted text into it, and delete the picture of the bubble text
 
 The current effect is the same as ce-translated in the ce folder, which is not ideal
@@ -15,6 +17,10 @@ So I want to ask, is there any, just choose the bubble method, or the ready-made
 The method of skipping the text in the non-bubble area, and the ready-made code are also fine
 
 Anyway, as long as it can achieve the effect I want, no matter what method is fine.
+
+![QQ20230603200930](https://github.com/1439707509/joinjaptocn/assets/128567416/588c792f-9a9a-4acf-ac7c-5931e1cc9c71)
+![QQ20230603201002](https://github.com/1439707509/joinjaptocn/assets/128567416/1ee85caa-9acb-457a-b5c8-49840a21729a)
+
 
 ![1](https://github.com/1439707509/joinjaptocn/assets/128567416/7c4187dc-c954-4403-87ce-6b166c803092)
 ![01](https://github.com/1439707509/joinjaptocn/assets/128567416/70b9c0e1-3d19-4d58-9c64-083e1d959845)
