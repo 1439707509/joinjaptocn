@@ -2,7 +2,7 @@
 
 > [中文说明](README_CN.md) 
 
-2023.6.4 我加上了判断代码，目前是 将膨胀后的区域，4条边的中间10px，各外延5px，组成4个小矩形，然后判断这4个小矩形里是否有非白色点，如果超过2个小矩形有，则视为非气泡，删除，可是还是不准确
+2023.6.4 I have added the judgment code. At present, the expanded area is 10px in the middle of the 4 sides, and each extension is 5px to form 4 small rectangles, and then judge whether there are non-white points in these 4 small rectangles. If there are more than 2 If there is a small rectangle, it is regarded as a non-bubble and deleted, but it is still inaccurate
 
 I just want to delete the text in the bubble, extract the text in the bubble, write the extracted text into it, and delete the picture of the bubble text
 
